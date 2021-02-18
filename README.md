@@ -58,44 +58,36 @@
   </ol>
 </details>
 
-
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+![Product Name Screen Shot][product-screenshot]
 
 This is a simple Smart contract to print any message, so you can use it to make the traditional and well known, Hello World! but in solidity. :smile:
 
-If you're new to smart contracts I invite you to study the code and try to replacate by yourself with the help of the solidity documentation.
+If you're new to smart contracts I invite you to study the code and try to replicate by yourself with the help of the solidity documentation.
 
 ### Built With
 
 To develop this simple smart contract I used the standard tools used in the blockchain industry nowadays.
 
-* [Remix](https://getbootstrap.com)
-* [Solidity](https://jquery.com)
-
-
+* [Remix](https://remix.ethereum.org/)
+* [Solidity](https://docs.soliditylang.org/en/v0.8.1/)
 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+To edit or do your on smart contract you can use Remix IDE on the browser.
+In the web app you can create, compile, deploy and interact with smart contracts.
 
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
+* Remix IDE
   ```sh
-  npm install npm@latest -g
+  https://remix.ethereum.org/
   ```
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Clone the repo
    ```sh
    git clone https://github.com/your_username_/Project-Name.git
    ```
@@ -187,4 +179,4 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: /src/screenshot/code.png
