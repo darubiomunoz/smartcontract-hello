@@ -41,12 +41,10 @@
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -55,7 +53,7 @@
 </details>
 
 <!-- ABOUT THE PROJECT -->
-## About The Project :round_pushpin:
+## 1. About The Project :round_pushpin:
 
 ![Product Name Screen Shot][product-screenshot]
 
@@ -71,7 +69,7 @@ To develop this simple smart contract I used the standard tools used in the bloc
 * [Solidity](https://docs.soliditylang.org/en/v0.8.1/) _version: 0.8.1+commit.df193b15_
 
 <!-- GETTING STARTED -->
-## Getting Started :fire:
+## 2. Getting Started :fire:
 
 To edit or do your on smart contract you can use Remix IDE on the browser.
 In the web app you can create, compile, deploy and interact with smart contracts.
@@ -92,7 +90,7 @@ In the web app you can create, compile, deploy and interact with smart contracts
    ```
 
 <!-- USAGE EXAMPLES -->
-## Usage :star2:
+## 3. Usage :star2:
 
 If smart contract is made as part of a collection of smart contracts made in Solidity to practice coding and gain experience in this amazing texhnology.
 
@@ -101,7 +99,7 @@ Study the code try to understand it, and of course try code your on code too, us
 _For more examples, please refer to the [Example in the Documentation](https://docs.soliditylang.org/en/v0.8.1/solidity-by-example.html)_
 
 <!-- CONTRIBUTING -->
-## Contributing :tada:
+## 4. Contributing :tada:
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
@@ -112,12 +110,12 @@ Contributions are what make the open source community such an amazing place to b
 5. Open a Pull Request
 
 <!-- LICENSE -->
-## License :memo:
+## 5. License :memo:
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
 <!-- CONTACT -->
-## Contact :e-mail:
+## 6. Contact :e-mail:
 
 Diego Rubio
 [linkedin](https://www.linkedin.com/in/darmdev/)
@@ -126,7 +124,7 @@ darubiomunoz@gmail.com
 Project Link: [https://github.com/darubiomunoz/smartcontract-print.git](https://github.com/darubiomunoz/smartcontract-print.git)
 
 <!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements :clap:
+## 7. Acknowledgements :clap:
 * [Remix IDE](https://remix.ethereum.org/)
 * [Solidity](https://docs.soliditylang.org/en/v0.8.1/)
 
