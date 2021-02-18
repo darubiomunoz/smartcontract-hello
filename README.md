@@ -7,15 +7,13 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
-:us:
-
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://github.com/darubiomunoz/smartcontract-print">
     <img src="./src/images/smart-contracts-logo.svg" alt="Logo" width="200" height="200">
   </a>
   <h1 align="center">Print Smart Contract</h1>
@@ -46,6 +44,7 @@
     </li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#">Status</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
@@ -109,13 +108,19 @@ Contributions are what make the open source community such an amazing place to b
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
+<!-- Status -->
+## 5. Status :memo:
+
+The project is `Finished`.
+_There's a chance I'll make the testing of the smart contract with Truffle._
+
 <!-- LICENSE -->
-## 5. License :memo:
+## 6. License :memo:
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
 <!-- CONTACT -->
-## 6. Contact :e-mail:
+## 7. Contact :e-mail:
 
 Diego Rubio
 [linkedin](https://www.linkedin.com/in/darmdev/)
@@ -124,10 +129,9 @@ darubiomunoz@gmail.com
 Project Link: [https://github.com/darubiomunoz/smartcontract-print.git](https://github.com/darubiomunoz/smartcontract-print.git)
 
 <!-- ACKNOWLEDGEMENTS -->
-## 7. Acknowledgements :clap:
+## 8. Acknowledgements :clap:
 * [Remix IDE](https://remix.ethereum.org/)
 * [Solidity](https://docs.soliditylang.org/en/v0.8.1/)
-
 
 :copyright: _Diego Rubio - 2021_
 
