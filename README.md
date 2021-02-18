@@ -7,6 +7,8 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
+:us:
+
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
@@ -16,9 +18,7 @@
   <a href="https://github.com/othneildrew/Best-README-Template">
     <img src="./src/images/smart-contracts-logo.svg" alt="Logo" width="200" height="200">
   </a>
-
   <h1 align="center">Print Smart Contract</h1>
-
   <p align="center">
     Blockchain
     <br />
@@ -55,15 +55,15 @@
 </details>
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## About The Project :round_pushpin:
 
 ![Product Name Screen Shot][product-screenshot]
 
 This is a simple Smart contract to print any message, so you can use it to make the traditional and well known, Hello World! but in solidity. :smile:
 
-If you're new to smart contracts I invite you to study the code and try to replicate by yourself with the help of the solidity documentation.
+If you're new to smart contracts I invite you to study the code and try to replicate by yourself with the help of the solidity documentation. :stars:
 
-### Built With
+### Built With :computer:
 
 To develop this simple smart contract I used the standard tools used in the blockchain industry nowadays.
 
@@ -71,7 +71,7 @@ To develop this simple smart contract I used the standard tools used in the bloc
 * [Solidity](https://docs.soliditylang.org/en/v0.8.1/) _version: 0.8.1+commit.df193b15_
 
 <!-- GETTING STARTED -->
-## Getting Started
+## Getting Started :fire:
 
 To edit or do your on smart contract you can use Remix IDE on the browser.
 In the web app you can create, compile, deploy and interact with smart contracts.
@@ -81,7 +81,7 @@ In the web app you can create, compile, deploy and interact with smart contracts
   https://remix.ethereum.org/
   ```
 
-### Installation
+### Installation  :exclamation:
 
 1. Clone the repo
    ```sh
@@ -92,7 +92,7 @@ In the web app you can create, compile, deploy and interact with smart contracts
    ```
 
 <!-- USAGE EXAMPLES -->
-## Usage
+## Usage :star2:
 
 If smart contract is made as part of a collection of smart contracts made in Solidity to practice coding and gain experience in this amazing texhnology.
 
@@ -101,7 +101,7 @@ Study the code try to understand it, and of course try code your on code too, us
 _For more examples, please refer to the [Example in the Documentation](https://docs.soliditylang.org/en/v0.8.1/solidity-by-example.html)_
 
 <!-- CONTRIBUTING -->
-## Contributing
+## Contributing :tada:
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
@@ -112,12 +112,12 @@ Contributions are what make the open source community such an amazing place to b
 5. Open a Pull Request
 
 <!-- LICENSE -->
-## License
+## License :memo:
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
 <!-- CONTACT -->
-## Contact
+## Contact :e-mail:
 
 Diego Rubio
 [linkedin](https://www.linkedin.com/in/darmdev/)
@@ -126,9 +126,12 @@ darubiomunoz@gmail.com
 Project Link: [https://github.com/darubiomunoz/smartcontract-print.git](https://github.com/darubiomunoz/smartcontract-print.git)
 
 <!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
+## Acknowledgements :clap:
 * [Remix IDE](https://remix.ethereum.org/)
 * [Solidity](https://docs.soliditylang.org/en/v0.8.1/)
+
+
+:copyright: _Diego Rubio - 2021_
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
