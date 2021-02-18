@@ -91,9 +91,9 @@ In the web app you can create, compile, deploy and interact with smart contracts
 <!-- USAGE EXAMPLES -->
 ## 3. Usage :star2:
 
-If smart contract is made as part of a collection of smart contracts made in Solidity to practice coding and gain experience in this amazing texhnology.
+This smart contract is made as part of a collection of smart contracts made in Solidity to practice coding and gain experience in this amazing technology.
 
-Study the code try to understand it, and of course try code your on code too, using this an example.
+Study the code try to understand it, and of course try to code your on script too, using this as example.
 
 _For more examples, please refer to the [Example in the Documentation](https://docs.soliditylang.org/en/v0.8.1/solidity-by-example.html)_
 
